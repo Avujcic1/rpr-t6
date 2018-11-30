@@ -21,3 +21,7 @@ public class Main extends Application {
         launch(args);
     }
 }
+
+//Treba stavit min format tabele;
+//Treba staviti podatke za padajuce liste
+//Treba ubaciti kada se unese dobar podatak da pozeleni
